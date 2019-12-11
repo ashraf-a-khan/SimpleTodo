@@ -37,7 +37,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-- I had an old version of Android Studio, which wasn't compatible with the xml rendering engine. I had to upgrade to Android Studio 1.3
 
 ## License
 
